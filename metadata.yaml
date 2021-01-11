@@ -1,0 +1,28 @@
+_repo: New-Milford-A-memorial-discourse-delivered-in-the-Congregational-church-New-Milford-Conn-Sund__64158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonar, J. B. (James Blair)
+    alias: Bonar, James Blair
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '52776'
+    url: http://www.gutenberg.org/2009/agents/52776
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64158'
+  lccn: '25003684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First Congregational Church (New Milford, Conn.)'
+- !lcsh 'New Milford (Conn.) -- History'
+- !lcc 'F001'
+- GITenberg
+title: New Milford. A memorial discourse, delivered in the Congregational church,
+  New Milford, Conn., Sunday, July 9, 1876
+url: http://www.gutenberg.org/ebooks/64158
